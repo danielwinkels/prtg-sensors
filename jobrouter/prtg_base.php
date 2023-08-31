@@ -63,6 +63,7 @@ class PrtgBase {
         $result = $this->jobDB->preparedSelect($sql, $parameters, $types);
         if ($result === false) {
             // ResponseWithError(500, $this->jobDB->getErrorMessage());
+            error_log($this->jobDB->getErrorMessage());
             return;
         }
         return $this->jobDB->fetchAll($result);
