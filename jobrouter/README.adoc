@@ -1,0 +1,3 @@
+== Using the php-files
+
+For now just use prtg_mssql or prtg_mysql. Store it in your jobrouter directory aside from index.php, make it accessible publicly and add it to prtg.
