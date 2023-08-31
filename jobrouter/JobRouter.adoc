@@ -1,0 +1,6 @@
+== About JobRouter
+
+JobRouter is a powerful and flexible platform for workflow automation and business process management (BPM). It allows organizations to design, implement, and manage a wide range of business processes, helping them streamline operations, improve efficiency, and reduce costs. With its user-friendly drag-and-drop interface, extensive integration capabilities, and a rich set of features, JobRouter makes it easy to create workflows that can handle everything from simple tasks to complex, multi-step processes. The platform is highly customizable and can be extended through various modules, making it suitable for businesses of all sizes and across various industries.
+
+For more information, visit https://www.jobrouter.com[JobRouter's official website].
+
